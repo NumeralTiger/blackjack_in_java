@@ -1,1 +1,1 @@
-# blackjack_in_java
+Welcome to blackjack in Java, a complete blackjack game all in your Java terminal, you against a dealer. The rules are simple and same like any blackjack game, the dealer hits at 16 or lower, and must stay at 17 or higher. Let the games begin!!
