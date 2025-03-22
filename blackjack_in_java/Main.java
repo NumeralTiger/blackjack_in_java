@@ -25,7 +25,7 @@
  *   - The "printHand" method iterates over the list of cards and prints the string representation of each card to the console.
  *   - The "getTotalValue" method calculates the total value of the hand by summing the values of each card in the list and returning the total, useful in determining who won.
  * 
- * - By Zaid Mohiuddin (Student Number-501320610) Run the main file to play!
+ * - By Zaid Mohiuddin Run the main file to play!
  */
 
 import java.util.Scanner;
